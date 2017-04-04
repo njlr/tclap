@@ -22,3 +22,8 @@ examples/test[0-9]
 Makefile
 tclap.pc
 tests/tmp.out
+/buck-out/
+/.buckd/
+/buckaroo/
+.buckconfig.local
+BUCKAROO_DEPS
